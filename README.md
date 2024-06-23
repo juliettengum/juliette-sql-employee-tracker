@@ -76,4 +76,4 @@ Contributions are welcome. Please fork the repository and submit a pull request 
 
 If you have any questions about the repo, open an issue or contact me directly at your-email@example.com. You can find more of my work at your-github-username.
 ## Video Walkthrough
-<video controls src="walkthroughvideo.mp4" title="Title"></video>
+[LINK](<video controls src="walkthroughvideo.mp4" title="Title"></video>)
