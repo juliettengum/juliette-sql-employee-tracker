@@ -21,7 +21,7 @@ Employee Tracker is a command-line application built with Node.js, Inquirer, and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/employee-tracker.git
+   https://github.com/juliettengum/juliette-sql-employee-tracker
 
 ## Usage
 
@@ -79,6 +79,7 @@ If you have any questions about the repo, open an issue or contact me directly a
 ## Video Walkthrough
 [LINK](https://github.com/juliettengum/juliette-sql-employee-tracker/assets/160192167/edea1a99-9c08-490a-8d50-5598b567ff95)
 
-
+DEPLOYED LINK
+https://github.com/juliettengum/juliette-sql-employee-tracker
 
 
