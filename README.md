@@ -75,5 +75,9 @@ Contributions are welcome. Please fork the repository and submit a pull request 
 ## Question
 
 If you have any questions about the repo, open an issue or contact me directly at your-email@example.com. You can find more of my work at your-github-username.
+
+[LINK](https://github.com/juliettengum/juliette-sql-employee-tracker/assets/160192167/edea1a99-9c08-490a-8d50-5598b567ff95)
+
+
 ## Video Walkthrough
-[LINK](<video controls src="walkthroughvideo.mp4" title="Title"></video>)
+
